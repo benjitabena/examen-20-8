@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "Pablo",
+      "email": "pablitopelado@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Lucas",
+      "email": "lucascapoeira@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jorge",
+      "email": "jorgecito@hotmail.com"
+    },
+    {
+      "id": "0401",
+      "name": "benja",
+      "email": "nenja@gmail.com"
+    }
+  ]
+}
